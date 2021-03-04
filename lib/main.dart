@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             controller.quote.text ?? '',
                             textAlign: TextAlign.center,
                             style: TextStyle(
-                              fontSize: 32,
+                              fontSize: 28,
                               color: Colors.black,
                               height: 1.3,
                               letterSpacing: 1,
