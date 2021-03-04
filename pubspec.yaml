@@ -1,0 +1,69 @@
+name: flutter_random_quote_generator
+description: Flutter random quote generator using quotes api and getx.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^3.24.0
+  http: ^0.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: Thinking_of_Betty
+      fonts:
+        - asset: assets/fonts/Thinking_of_Betty.ttf
+
+    - family: Merienda
+      fonts:
+        - asset: assets/fonts/Merienda-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/Merienda-Regular.ttf
+          weight: 400
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
